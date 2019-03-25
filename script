@@ -1,0 +1,35 @@
+sphere
+200 200 0 100
+display
+sphere
+200 200 0 200
+display
+torus
+200 200 0 30 100
+display
+torus
+200 200 0 75 200
+display
+ident
+move
+-200 -200 -200
+rotate
+y 14
+rotate
+x 11
+move
+200 200 200
+apply
+display
+apply
+display
+apply
+display
+clear
+box
+100 100 0 200 200 200
+display
+apply
+display
+apply
+display
